@@ -145,15 +145,69 @@ My contribution included developing the Flutter application and helping connect 
 ## Experience & Community
 
 <details>
+<summary><b>AI Summer Training</b> — College Training</summary>
+
+<br>
+
+A summer training focused on Artificial Intelligence and Machine Learning.
+
+Covered topics including:
+
+* Python
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Other AI fundamentals
+
+As part of the training, I worked on a Diabetes Patients prediction project using Machine Learning.
+
+</details>
+
+<br>
+
+<details>
+<summary><b>DEPI</b> — Digital Marketing Track</summary>
+
+<br>
+
+Participated in the Digital Marketing track at the Digital Egypt Pioneers Initiative.
+
+Covered topics including:
+
+* Social Media Marketing
+* Content Marketing
+* Email Marketing
+* SEO fundamentals
+* Paid Campaigns
+* Market Research
+* Google Analytics
+
+</details>
+
+<br>
+
+<details>
 <summary><b>IEEE BU SB</b> — Organizer & Volunteer</summary>
 
 <br>
 
-* Supported students during a Robotics & AI Summer School.
-* Worked with school students on robotics activities and projects.
+* Supported students during a Robotics & AI Summer School at Shoubra Faculty of Engineering.
+* Helped school students with robotics activities and projects.
+* Worked as part of the organizing team.
+* Supported students during practical activities and project work.
+
+</details>
+
+<br>
+
+<details>
+<summary><b>IEEE BUB SB</b> — Member</summary>
+
+<br>
+
 * Participated in Turbo Cup.
 * Worked on a Flutter application for robotic car control.
-* Helped with the hardware side and connected the application with the car.
+* Helped with connecting the application with the car hardware.
 
 </details>
 
@@ -194,6 +248,14 @@ My contribution included developing the Flutter application and helping connect 
 
 </details>
 
+---
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Eng-ShahdAmr&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" width="55%">
+
+</div>
 ---
 
 ## Let's Connect
