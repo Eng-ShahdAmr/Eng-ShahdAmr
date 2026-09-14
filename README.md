@@ -85,15 +85,15 @@ I enjoy learning through practical projects, technical communities, and voluntee
 
 A Machine Learning classification project that predicts whether a person has diabetes based on provided data.
 
-Tech Stack
+**Tech Stack**
 
 `Python` `NumPy` `Pandas` `Scikit-learn`
 
-Models
+**Models**
 
 `Logistic Regression` `KNN` `Decision Tree`
 
-The project included:
+**The project included:**
 
 * Data preprocessing
 * Model training
@@ -115,7 +115,7 @@ The project uses face recognition to interact with the car and control its movem
 
 My contribution included working on the Python and OpenCV side and helping with the hardware assembly.
 
-Tech Stack
+**Tech Stack**
 
 `Python` `OpenCV` `Arduino Uno` `Servo Motors`
 
@@ -134,7 +134,7 @@ The project combines a Flutter control interface with robotic car hardware.
 
 My contribution included developing the Flutter application and helping connect the application with the car hardware.
 
-Tech Stack
+**Tech Stack**
 
 `Flutter` `Dart` `ESP32` `Wi-Fi` `Motor Driver` `DC Motors` `Arduino IDE`
 
@@ -144,9 +144,10 @@ Tech Stack
 
 ## Experience & Community
 
-### IEEE BU SB
+<details>
+<summary><b>IEEE BU SB</b> — Organizer & Volunteer</summary>
 
-`Organizer & Volunteer`
+<br>
 
 * Supported students during a Robotics & AI Summer School.
 * Worked with school students on robotics activities and projects.
@@ -154,37 +155,44 @@ Tech Stack
 * Worked on a Flutter application for robotic car control.
 * Helped with the hardware side and connected the application with the car.
 
-### GDG
+</details>
 
-`Member`
+<br>
+
+<details>
+<summary><b>GDG</b> — Member</summary>
+
+<br>
 
 * Attended a Data Science & AI camp.
 * Attended a UI/UX Design camp.
 
-### Delta Youth Entity
+</details>
 
-`HR Member — IT Team`
+<br>
+
+<details>
+<summary><b>Delta Youth Entity</b> — HR Member — IT Team</summary>
+
+<br>
 
 * Participated for a full season.
 * Managed certificates and participant data using Excel.
 * Supported team and HR activities.
 
-### iSchool
+</details>
 
-`Tutor Assistant`
+<br>
+
+<details>
+<summary><b>iSchool</b> — Tutor Assistant</summary>
+
+<br>
 
 * Supported students in programming and AI.
 * Helped students understand tasks and solve technical problems.
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Eng-ShahdAmr&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" width="55%">
-
-</div>
+</details>
 
 ---
 
