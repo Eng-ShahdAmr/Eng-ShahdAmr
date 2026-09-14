@@ -1,18 +1,18 @@
 <div align="center">
 
-# Hi, I'm Eng-ShahdAmr
+# Hi, I'm Shahd Amr
 
 ### Computer Science Student | Exploring AI & Data
 
 <p>
   <a href="https://www.linkedin.com/in/shahd-amr8">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:shahdamr852@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://github.com/Eng-ShahdAmr">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
@@ -22,83 +22,84 @@
 
 ## About Me
 
-I'm a Computer Science student interested in AI and Data.
+I'm a Computer Science student exploring the world of AI and Data.
 
-I'm building strong foundations in Computer Science while exploring different areas of AI, Machine Learning, Data Science, and Data Analysis.
+My current focus is building strong Computer Science foundations while developing my skills in Python, Machine Learning, Deep Learning, and Problem Solving.
 
-I'm also working on improving my problem-solving skills and turning what I learn into practical projects.
+I'm interested in exploring different paths across:
 
-I enjoy learning through projects, technical activities, and community experiences.
+`Artificial Intelligence` · `Machine Learning` · `Data Science` · `Data Analysis`
+
+I also enjoy working on practical projects, participating in technical communities, and gaining experience through volunteering.
 
 ---
 
-## Current Focus
+## What I'm Working On
 
-* Strengthening my Computer Science fundamentals
-* Improving Problem Solving
-* Learning Python for AI & Data
-* Exploring Machine Learning and Deep Learning
-* Building practical projects
-* Exploring different paths within AI and Data
+```text
+Computer Science Fundamentals
+        ↓
+Problem Solving & Algorithms
+        ↓
+Python & Data
+        ↓
+Machine Learning
+        ↓
+Deep Learning & AI
+```
+
+My goal is to keep exploring these areas and find the path that fits me best.
 
 ---
 
 ## Currently Learning
 
-```text
-Python
-Machine Learning
-Deep Learning
-Data Structures & Algorithms
-Problem Solving
-```
+<div align="center">
+
+| Area                         | Focus                              |
+| ---------------------------- | ---------------------------------- |
+| Python                       | Building stronger foundations      |
+| Machine Learning             | Models, preprocessing & evaluation |
+| Deep Learning                | Neural networks & CNN basics       |
+| Data Structures & Algorithms | Problem solving & fundamentals     |
+| AI                           | Exploring different AI fields      |
+
+</div>
 
 ---
 
-## Tech Stack
+## Skills
 
-### Languages
-
-<p>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-</p>
-
-### Computer Science
+### Programming
 
 <p>
-  <img src="https://img.shields.io/badge/OOP-333333?style=flat-square">
-  <img src="https://img.shields.io/badge/Data%20Structures-333333?style=flat-square">
-  <img src="https://img.shields.io/badge/Algorithms-333333?style=flat-square">
-  <img src="https://img.shields.io/badge/Problem%20Solving-333333?style=flat-square">
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css">
 </p>
 
 ### AI & Data
 
 <p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square">
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
+<img src="https://skillicons.dev/icons?i=opencv,tensorflow">
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-333333?style=flat-square">
-  <img src="https://img.shields.io/badge/Deep%20Learning-333333?style=flat-square">
-  <img src="https://img.shields.io/badge/Computer%20Vision-333333?style=flat-square">
-  <img src="https://img.shields.io/badge/NLP-333333?style=flat-square">
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square">
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square">
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
 </p>
+
+`Machine Learning` `Deep Learning` `Computer Vision` `NLP`
+
+### Computer Science
+
+`OOP` `Data Structures` `Algorithms` `Problem Solving`
 
 ### Tools & Hardware
 
 <p>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
+<img src="https://skillicons.dev/icons?i=arduino,flutter,firebase">
 </p>
 
 ---
@@ -107,57 +108,86 @@ Problem Solving
 
 ### Diabetes Prediction
 
-A Machine Learning classification project that predicts whether a person has diabetes based on provided data.
+Machine Learning classification project that predicts whether a person has diabetes based on provided data.
 
-Technologies used:
+Tech used:
 
 `Python` `NumPy` `Pandas` `Scikit-learn`
 
-Models explored:
+Models:
 
 `Logistic Regression` `KNN` `Decision Tree`
 
-The project included data preprocessing, model training, testing, and model evaluation.
+The project covered:
+
+* Data preprocessing
+* Model training
+* Model testing
+* Model evaluation
+
+More projects will be added as I continue building and learning.
 
 ---
 
-## Community & Activities
+## Experience & Community
 
 ### IEEE BU SB
 
-Organizer & Volunteer
+`Organizer & Volunteer`
 
 * Supported students during a Robotics & AI Summer School.
-* Worked with school students on robotics activities and projects.
+* Worked with school students on robotics activities.
 * Participated in Turbo Cup.
-* Worked on a Flutter application for controlling a robotic car.
-* Helped with the hardware side and connected the application with the car.
+* Built a Flutter application for robotic car control.
+* Worked with the hardware team and helped connect the application with the car.
 
 ### GDG
 
-Member
+`Member`
 
 * Attended a Data Science & AI camp.
 * Attended a UI/UX Design camp.
 
 ### Delta Youth Entity
 
-HR Member — IT Team
+`HR Member — IT Team`
 
 * Participated for a full season.
 * Managed certificates and participant data using Excel.
-* Supported HR-related tasks and team activities.
+* Supported team and HR activities.
 
 ### iSchool
 
-Tutor Assistant
+`Tutor Assistant`
 
 * Supported students in programming and AI.
 * Helped students understand tasks and solve technical problems.
 
 ---
 
-## GitHub Stats
+## Areas I'm Exploring
+
+<div align="center">
+
+`AI`
+
+`Machine Learning`
+
+`Deep Learning`
+
+`Data Science`
+
+`Data Analysis`
+
+`Computer Vision`
+
+`Problem Solving`
+
+</div>
+
+---
+
+## GitHub
 
 <div align="center">
 
@@ -171,18 +201,26 @@ Tutor Assistant
 
 ## Let's Connect
 
-I'm always interested in learning, building projects, and connecting with people in Computer Science, AI, and Data.
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shahd-amr8">LinkedIn</a>
-  ·
-  <a href="mailto:shahdamr852@gmail.com">Email</a>
-  ·
-  <a href="https://github.com/Eng-ShahdAmr">GitHub</a>
-</p>
+<a href="https://www.linkedin.com/in/shahd-amr8">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:shahdamr852@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/Eng-ShahdAmr">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+<br>
 
 <div align="center">
 
-### Keep learning. Keep building.
+Building my skills one project at a time.
 
 </div>
