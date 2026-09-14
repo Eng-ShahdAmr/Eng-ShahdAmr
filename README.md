@@ -22,72 +22,44 @@
 
 ## About Me
 
-I'm a Computer Science student exploring the world of AI and Data.
+I'm a Computer Science student exploring AI and Data.
 
-My current focus is building strong Computer Science foundations while developing my skills in Python, Machine Learning, Deep Learning, and Problem Solving.
+I'm building strong foundations in Computer Science while developing my skills in Python, Machine Learning, Deep Learning, and Problem Solving.
 
-I'm interested in exploring different paths across:
+I'm interested in exploring different paths across AI, Machine Learning, Data Science, and Data Analysis.
 
-`Artificial Intelligence` · `Machine Learning` · `Data Science` · `Data Analysis`
-
-I also enjoy working on practical projects, participating in technical communities, and gaining experience through volunteering.
-
----
-
-## What I'm Working On
-
-```text
-Computer Science Fundamentals
-        ↓
-Problem Solving & Algorithms
-        ↓
-Python & Data
-        ↓
-Machine Learning
-        ↓
-Deep Learning & AI
-```
-
-My goal is to keep exploring these areas and find the path that fits me best.
+I enjoy learning through practical projects, technical communities, and volunteering experiences.
 
 ---
 
 ## Currently Learning
 
-<div align="center">
-
-| Area                         | Focus                              |
-| ---------------------------- | ---------------------------------- |
-| Python                       | Building stronger foundations      |
-| Machine Learning             | Models, preprocessing & evaluation |
-| Deep Learning                | Neural networks & CNN basics       |
-| Data Structures & Algorithms | Problem solving & fundamentals     |
-| AI                           | Exploring different AI fields      |
-
-</div>
+* Python
+* Machine Learning
+* Deep Learning
+* Data Structures & Algorithms
+* Problem Solving
 
 ---
 
-## Skills
+## Tech Stack
 
 ### Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python,html,css">
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css">
 </p>
 
 ### AI & Data
 
 <p>
-<img src="https://skillicons.dev/icons?i=opencv,tensorflow">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,opencv,tensorflow">
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square">
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square">
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square">
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
 </p>
 
 `Machine Learning` `Deep Learning` `Computer Vision` `NLP`
@@ -99,33 +71,74 @@ My goal is to keep exploring these areas and find the path that fits me best.
 ### Tools & Hardware
 
 <p>
-<img src="https://skillicons.dev/icons?i=arduino,flutter,firebase">
+  <img src="https://skillicons.dev/icons?i=arduino,flutter,firebase">
 </p>
 
 ---
 
 ## Projects
 
-### Diabetes Prediction
+<details>
+<summary><b>Diabetes Prediction</b></summary>
 
-Machine Learning classification project that predicts whether a person has diabetes based on provided data.
+<br>
 
-Tech used:
+A Machine Learning classification project that predicts whether a person has diabetes based on provided data.
+
+Tech Stack
 
 `Python` `NumPy` `Pandas` `Scikit-learn`
 
-Models:
+Models
 
 `Logistic Regression` `KNN` `Decision Tree`
 
-The project covered:
+The project included:
 
 * Data preprocessing
 * Model training
 * Model testing
 * Model evaluation
 
-More projects will be added as I continue building and learning.
+</details>
+
+<br>
+
+<details>
+<summary><b>AI Robotic Car</b></summary>
+
+<br>
+
+A robotic car project that combines computer vision with Arduino hardware.
+
+The project uses face recognition to interact with the car and control its movement.
+
+My contribution included working on the Python and OpenCV side and helping with the hardware assembly.
+
+Tech Stack
+
+`Python` `OpenCV` `Arduino Uno` `Servo Motors`
+
+</details>
+
+<br>
+
+<details>
+<summary><b>Flutter Wi-Fi Car</b></summary>
+
+<br>
+
+A Flutter mobile application for controlling a robotic car through Wi-Fi.
+
+The project combines a Flutter control interface with robotic car hardware.
+
+My contribution included developing the Flutter application and helping connect the application with the car hardware.
+
+Tech Stack
+
+`Flutter` `Dart` `ESP32` `Wi-Fi` `Motor Driver` `DC Motors` `Arduino IDE`
+
+</details>
 
 ---
 
@@ -136,10 +149,10 @@ More projects will be added as I continue building and learning.
 `Organizer & Volunteer`
 
 * Supported students during a Robotics & AI Summer School.
-* Worked with school students on robotics activities.
+* Worked with school students on robotics activities and projects.
 * Participated in Turbo Cup.
-* Built a Flutter application for robotic car control.
-* Worked with the hardware team and helped connect the application with the car.
+* Worked on a Flutter application for robotic car control.
+* Helped with the hardware side and connected the application with the car.
 
 ### GDG
 
@@ -165,29 +178,7 @@ More projects will be added as I continue building and learning.
 
 ---
 
-## Areas I'm Exploring
-
-<div align="center">
-
-`AI`
-
-`Machine Learning`
-
-`Deep Learning`
-
-`Data Science`
-
-`Data Analysis`
-
-`Computer Vision`
-
-`Problem Solving`
-
-</div>
-
----
-
-## GitHub
+## GitHub Stats
 
 <div align="center">
 
@@ -221,6 +212,6 @@ More projects will be added as I continue building and learning.
 
 <div align="center">
 
-Building my skills one project at a time.
+Building my skills through learning, problem solving, and projects.
 
 </div>
