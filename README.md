@@ -178,13 +178,13 @@ Tech Stack
 
 ---
 
-// ## GitHub Stats
+## GitHub Stats
 
-// <div align="center">
+<div align="center">
 
-// <img src="https://github-readme-stats.vercel.app/api?username=Eng-ShahdAmr&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" width="55%">
+<img src="https://github-readme-stats.vercel.app/api?username=Eng-ShahdAmr&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" width="55%">
 
-// </div>
+</div>
 
 ---
 
